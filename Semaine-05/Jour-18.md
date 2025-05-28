@@ -22,4 +22,4 @@
   - [X] À quoi sert l'encapsulation ?
   - [ ] Quels sont les différents mot-clés réservés pour l'encapsulation ? 
   - [X] Comprendre le principe de "scope" (portée en français)
-  - [ ] Pourquoi c'est un principe fondamental de la POO.
+  - [x] Pourquoi c'est un principe fondamental de la POO.

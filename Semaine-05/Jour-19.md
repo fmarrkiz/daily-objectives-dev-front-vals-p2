@@ -4,18 +4,18 @@
 
 ### POO (Programmation Orientée Objet) :
 
-- [ ] Comprendre ce qu'est l'héritage :
-  - [ ] À quoi sert l'héritage ?
-  - [ ] Comment écrit-on de l'héritage ?
-  - [ ] Dans quel cas utilise t-on l'héritage ?
-  - [ ] Comprendre les relations parents -> enfants et enfants -> parents.
-- [ ] Comprendre ce qu'est une interface ?
-  - [ ] Comprendre l'interet des interfaces.
-  - [ ] Quelle différence avec une classe abstraite ?
-- [ ] Comprendre le principe de relations entre les objets (UML) :
-  - [ ] Qu'est ce que l'association ?
-  - [ ] Qu'est ce que l'aggrégation ?
-  - [ ] Qu'est ce que la composition ?
+- [x] Comprendre ce qu'est l'héritage :
+  - [x] À quoi sert l'héritage ?
+  - [x] Comment écrit-on de l'héritage ?
+  - [x] Dans quel cas utilise t-on l'héritage ?
+  - [x] Comprendre les relations parents -> enfants et enfants -> parents.
+- [x] Comprendre ce qu'est une interface ?
+  - [x] Comprendre l'interet des interfaces.
+  - [x] Quelle différence avec une classe abstraite ?
+- [x] Comprendre le principe de relations entre les objets (UML) :
+  - [x] Qu'est ce que l'association ?
+  - [x] Qu'est ce que l'aggrégation ?
+  - [x] Qu'est ce que la composition ?
 - [ ] Comprendre ce qu'est le polymorphisme :
   - [ ] À quoi sert le polymorphisme ?
   - [ ] Comprendre l'utilité du polymorphisme.
