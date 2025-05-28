@@ -21,6 +21,16 @@ And
 when we use several types of inheritance.
 Esp. the case in complex applications.
 
+## ES6 Class inheritance
+
+most modern and common approach
+
+`extends` :  
+creates inheritance relationships between classes  
+only works with classes  
+extends creates a prototype chain  
+allows method overriding and `super` calls
+
 ## Overriding and inheritance
 
 In most OOP, you can override the variables of a parent class in the child class.
